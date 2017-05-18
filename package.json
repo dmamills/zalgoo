@@ -1,0 +1,11 @@
+{
+  "name": "zalgoo",
+  "version": "1.0.1",
+  "description": "zalgo text",
+  "main": "index.js",
+  "author": "dmamills",
+  "license": "MIT",
+  "keywords": [
+    "zalgo", "text", "glitch"
+  ]
+}
